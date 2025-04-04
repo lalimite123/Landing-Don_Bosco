@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "title": "Don Bosco",
+    "subtitle": "incorrigible optimist with a good portion of trust in God",
+    "description": "The young priest Johannes Bosco experienced the misery of street children in Turin around 1840. He decided to help them - this became his life's work."
+  },
+  "projects": {
+    "title": "Our Projects",
+    "description": "We support projects worldwide that provide education, protection and perspective for children and young people.",
+    "link": "Learn more →"
+  },
+  "navigation": {
+    "help": "HOW WE HELP",
+    "contribute": "CONTRIBUTE!",
+    "about": "WHO WE ARE"
+  }
+}

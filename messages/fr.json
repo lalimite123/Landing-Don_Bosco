@@ -1,0 +1,113 @@
+{
+  "hero": {
+    "title": "Don Bosco",
+    "subtitle": "optimiste incorrigible avec une bonne dose de confiance en Dieu",
+    "description": "Le jeune prêtre Johannes Bosco a connu la misère des enfants des rues à Turin vers 1840. Il a décidé de les aider - ce qui est devenu l'œuvre de sa vie."
+  },
+  "projects": {
+    "title": "Nos Projets",
+    "description": "Nous soutenons des projets dans le monde entier qui offrent éducation, protection et perspectives aux enfants et aux jeunes.",
+    "link": "En savoir plus →"
+  },
+  "navigation": {
+    "help": "COMMENT NOUS AIDONS",
+    "contribute": "CONTRIBUEZ!",
+    "about": "QUI NOUS SOMMES",
+    "submenus": {
+      "help": {
+        "projects": {
+          "title": "Nos Projets",
+          "description": "Découvrez nos projets d'aide dans le monde entier"
+        },
+        "education": {
+          "title": "Éducation",
+          "description": "Programmes éducatifs pour les enfants défavorisés"
+        },
+        "emergency": {
+          "title": "Aide d'urgence",
+          "description": "Assistance rapide dans les situations de crise"
+        }
+      },
+      "contribute": {
+        "donate": {
+          "title": "Faire un don",
+          "description": "Soutenez notre travail avec un don"
+        },
+        "volunteer": {
+          "title": "Bénévolat",
+          "description": "Engagez-vous activement dans nos projets"
+        },
+        "partnerships": {
+          "title": "Partenariats",
+          "description": "Coopérations avec des entreprises et des organisations"
+        }
+      },
+      "about": {
+        "aboutUs": {
+          "title": "À propos de nous",
+          "description": "Histoire et mission de Don Bosco Mimboman"
+        },
+        "donBosco": {
+          "title": "Don Bosco",
+          "description": "Vie et œuvre de notre fondateur"
+        },
+        "team": {
+          "title": "Équipe",
+          "description": "Nos collaborateurs et soutiens"
+        },
+        "history": {
+          "title": "Notre Histoire",
+          "description": "L'héritage de Don Bosco et notre mission"
+        }
+      }
+    }
+  },
+  "history": {
+    "title": "Notre Histoire",
+    "subtitle": "L'héritage de Don Bosco et notre mission auprès des jeunes",
+    "origins": {
+      "title": "Les origines",
+      "content": "En 1859, Saint Jean Bosco, un prêtre visionnaire, fonda la Congrégation salésienne avec une mission claire : offrir une chance aux jeunes les plus défavorisés de se former et de s'intégrer dans la société. Depuis, les Salésiens de Don Bosco ont poursuivi cet héritage avec passion et dévouement."
+    },
+    "mission": {
+      "title": "Notre mission",
+      "content1": "Convaincus que la jeunesse est la clé du développement des sociétés, nous sommes déterminés à faire tout ce qui est en notre pouvoir pour promouvoir leur épanouissement et leur éducation. Nous partageons les souffrances des jeunes et proposons des projets sociaux et éducatifs innovants pour les aider à surmonter les défis de leur vie quotidienne.",
+      "content2": "Nous croyons fermement que chaque jeune a le droit à une éducation de qualité, qui lui permettra de réaliser son plein potentiel et de devenir un acteur positif de la société. C'est pourquoi nous nous engageons à offrir des programmes éducatifs complets et adaptés aux besoins des jeunes, pour les aider à acquérir les compétences et les connaissances nécessaires pour réussir dans la vie."
+    },
+    "pillars": {
+      "education": {
+        "title": "Éducation",
+        "content": "Nous offrons des programmes éducatifs complets qui développent les compétences académiques, professionnelles et sociales."
+      },
+      "training": {
+        "title": "Formation",
+        "content": "Nos centres de formation professionnelle préparent les jeunes à des métiers d'avenir avec des compétences pratiques."
+      },
+      "support": {
+        "title": "Accompagnement",
+        "content": "Nous accompagnons chaque jeune dans son développement personnel, spirituel et social pour une croissance intégrale."
+      }
+    },
+    "timeline": {
+      "title": "Notre parcours",
+      "events": {
+        "1859": "Fondation de la Congrégation salésienne par Saint Jean Bosco à Turin, Italie.",
+        "1972": "Arrivée des premiers Salésiens au Cameroun et début des activités éducatives.",
+        "1991": "Ouverture du centre Don Bosco Mimboman pour répondre aux besoins des jeunes défavorisés.",
+        "today": "Nous continuons à développer nos programmes éducatifs et à étendre notre impact auprès des jeunes."
+      }
+    },
+    "cta": {
+      "title": "Rejoignez notre mission",
+      "content": "Ensemble, nous pouvons faire une différence dans la vie des jeunes et construire un avenir meilleur.",
+      "donate": "Faire un don",
+      "volunteer": "Devenir bénévole"
+    }
+  },
+  "footer": {
+    "contact": "Contact",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "copyright": "© 2024 Don Bosco Mimboman. Tous droits réservés."
+  }
+}

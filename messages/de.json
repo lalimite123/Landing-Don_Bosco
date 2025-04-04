@@ -1,0 +1,12 @@
+{
+  "hero": {
+    "title": "Don Bosco",
+    "subtitle": "unverbesserlicher Optimist mit einer gehörigen Portion Gottvertrauen",
+    "description": "Der junge Geistliche Johannes Bosco erlebt um 1840 das Elend der Straßenkinder in Turin. Er beschließt, ihnen zu helfen – das wird sein Lebenswerk."
+  },
+  "projects": {
+    "title": "Unsere Projekte",
+    "description": "Wir unterstützen weltweit Projekte, die Kindern und Jugendlichen Bildung, Schutz und eine Perspektive bieten.",
+    "link": "Mehr erfahren →"
+  }
+}
